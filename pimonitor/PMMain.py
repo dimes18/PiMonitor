@@ -10,7 +10,7 @@ import array
 import os
 import os.path
 import time
-import cPickle as pickle
+import pickle as pickle
 
 from pimonitor.PM import PM
 from pimonitor.PMConnection import PMConnection
